@@ -1,1 +1,1 @@
-My first readme
+Hacking is only legal when given consent.
